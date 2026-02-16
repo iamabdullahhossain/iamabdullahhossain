@@ -8,7 +8,7 @@ Flutter Developer • Mobile App Developer | BS in Computer Science and Engineer
 ## About Me
 Mobile App Developer with 3+ years of experience building performant, maintainable Flutter applications. I hold a BS in Computer Science and Engineering and enjoy turning user needs into polished mobile experiences.
 
-- 🔭 I’m currently building: (add current project)
+- 🔭 I’m currently building: (Shofol Bangla - Ecommerce)
 - 🌱 I’m learning: (add what you're learning)
 - 👯 I’m open to collaborating on: mobile apps, cross-platform tooling, state management solutions, and developer experience
 - 💬 Ask me about: Flutter, state management (Riverpod, GetX, Provider), app architecture patterns, and REST API integration
