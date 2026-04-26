@@ -1,71 +1,137 @@
-# Hi, I'm Abdullah Hossain 👋
-Flutter Developer • Mobile App Developer | BS in Computer Science and Engineering
+<!-- Animated Intro -->
+<h1 align="center">Hi 👋, I'm Abdullah Hossain</h1>
+<h3 align="center">Flutter Developer • Mobile App Engineer • 3+ Years Experience</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamabdullahhossain-181717?style=flat&logo=github)](https://github.com/iamabdullahhossain) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
----
-
-## About Me
-Mobile App Developer with 3+ years of experience building performant, maintainable Flutter applications. I hold a BS in Computer Science and Engineering and enjoy turning user needs into polished mobile experiences.
-
-- 🔭 I’m currently building: (Shofol Bangla - Ecommerce)
-- 🌱 I’m learning: (add what you're learning)
-- 👯 I’m open to collaborating on: mobile apps, cross-platform tooling, state management solutions, and developer experience
-- 💬 Ask me about: Flutter, state management (Riverpod, GetX, Provider), app architecture patterns, and REST API integration
-- ⚡ Fun fact: (add one fun fact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Lover;Building+Scalable+Apps" />
+</p>
 
 ---
 
-## Tech & Skills
-Top skills and patterns I rely on daily:
+## 🚀 About Me  
 
-- Flutter Development & Dart
-- REST API integration
-- State management: Riverpod, GetX, Provider
-- Navigation: Go Router
-- Local storage: Hive
-- Design & Architecture: Feature First Layer, MVVM, MVC
+💼 Flutter Developer at **RazinSoft Limited**  
+📱 3+ years building cross-platform mobile apps  
+🎯 Focused on performance, scalability & clean architecture  
 
-Other tools: Git, Firebase, CI (GitHub Actions), unit & widget testing
-
----
-
-## Featured Projects
-Below are my favorite projects — please provide repo links and 1-line descriptions and I’ll update these to link directly:
-
-- Supraskills TM — (repo link + short description?)
-- Edumali — (repo link + short description?)
-- Chuty rooms — (repo link + short description?)
-
-Tip: For each project, include 1–2 bullets with what you built, the stack used, and one measurable outcome (e.g., "reduced load time by 30%" or "10k+ downloads").
+- 🔭 Currently working on: **Shofol Bangla (Ecommerce App)**  
+- 🌱 Learning: Advanced Flutter performance & system design  
+- 💬 Ask me about: Flutter, Riverpod, REST APIs, real-time apps  
+- ⚡ Fun fact: I build pixel-perfect UI from Figma  
 
 ---
 
-## How I Work
-- Clean, testable code and modular architecture
-- Lean releases with CI and automated tests
-- Emphasis on UX, performance, and maintainability
-- Use telemetry and user feedback to iterate fast
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode" />
+</p>
+
+- Flutter & Dart  
+- Riverpod, GetX, Provider  
+- REST API (Dio)  
+- MVVM, MVC, Feature-first architecture  
+- Firebase & Push Notifications  
+- Hive (Local Storage)  
+- Google Maps & Location Services  
+- Real-time apps (Pusher)  
 
 ---
 
-## Contact
-I prefer to keep contact details up-to-date here. Please provide the links you want shown:
+## 📊 GitHub Stats  
 
-- Email: hello@yourdomain.com
-- LinkedIn: (your LinkedIn URL)
-- Twitter: (your Twitter handle)
-- Portfolio / Website: (your website)
-
----
-
-## Want these extras?
-I can add any combination of:
-- GitHub stats (contribution graph, top languages)
-- repo cards with auto-updating README project cards
-- a "Now" card (what you're working on right now)
-- badges for downloads, CI status, or Discord/Slack links
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabdullahhossain&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdullahhossain&theme=tokyonight" />
+</p>
 
 ---
 
-Thanks for reading — paste your project links, contact details, current project, and anything else you want emphasized and I’ll produce a polished final README ready to paste into your GitHub profile. 🚀
+## 📱 Live Apps (Published)
+
+### 🚀 Supraskills TM  
+<p>
+  <a href="https://apps.apple.com/us/app/supraskills-tm/id6757388694">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple" />
+  </a>
+</p>
+
+- Task management app with scheduling & internal messaging  
+- Riverpod + Hive + Firebase  
+- Background downloads, file uploads, localization  
+
+---
+
+### 🛒 Ready Classify  
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.readyclassify">
+    <img src="https://img.shields.io/badge/Play%20Store-Download-green?style=for-the-badge&logo=google-play" />
+  </a>
+</p>
+
+- Marketplace app with real-time updates  
+- Firebase Auth + Pusher + Google Maps  
+- Social login + REST API integration  
+
+---
+
+### 🎓 Bridge LMS  
+<p>
+  <a href="https://apps.apple.com/us/app/bridge-%D8%AC%D8%B3%D8%B1-%D8%B9%D8%A8%D9%88%D8%B1%D9%83/id6751279145">
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple" />
+  </a>
+</p>
+
+- Learning Management System mobile app  
+- Courses, assignments & progress tracking  
+- Backend-integrated architecture  
+
+---
+
+### 🎓 EduMali  
+
+- Full-feature LMS platform  
+- Video streaming & offline downloads  
+- Payments, analytics & messaging  
+
+---
+
+### 🏨 Chuty Rooms  
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.chutyrooms.crapp">
+    <img src="https://img.shields.io/badge/Play%20Store-Download-green?style=for-the-badge&logo=google-play" />
+  </a>
+</p>
+
+- Room booking & reservation system  
+- Maps, filters, payments & reviews  
+- Real-time availability  
+
+---
+
+## 💼 Experience  
+
+- **Flutter Developer (Mid-Level)** — RazinSoft Limited *(2025–Present)*  
+- **Flutter Developer** — Chuty Bangladesh *(2023–2025)*  
+- **Android Developer** — Authentic Four Technology *(2021–2022)*  
+
+---
+
+## 🎓 Education  
+
+🎓 BSc in Computer Science & Engineering  
+📍 Port City International University  
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="mailto:iamabdullahhossain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/iamabdullahhossain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/iamabdullahhossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ If you like my work, feel free to connect!
