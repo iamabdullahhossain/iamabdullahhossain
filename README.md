@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/iamabdullahhossain/iamabdullahhossain/main/profile.jpg" 
+    src="https://raw.githubusercontent.com/iamabdullahhossain/iamabdullahhossain/main/profile.png" 
     width="180" 
     style="border-radius:50%; border:4px solid #ffffff; box-shadow: 0 10px 25px rgba(0,0,0,0.2);" 
   />
