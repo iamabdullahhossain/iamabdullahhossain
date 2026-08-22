@@ -103,11 +103,8 @@ Currently working at **RazinSoft Limited** as a Flutter Developer.
 
 ## 💼 Experience
 
-**Flutter Developer**  
-📍 N.I.Biz Soft | *2026 – Present*
-
 **Flutter Developer (Mid-Level)**  
-📍 RazinSoft Limited | *2025 – 2026*
+📍 RazinSoft Limited | *2025 – Present*
 
 **Flutter Developer**  
 📍 Chuty Bangladesh | *2023 – 2025*
